@@ -1,8 +1,6 @@
 from random import choice
 import sys
 
-# Testing upstream
-
 player_wins = 0
 computer_wins = 0
 winning_score = 3
