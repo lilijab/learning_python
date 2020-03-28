@@ -14,4 +14,4 @@ while True:
         if cont == 'n':
             print('Thank you for playing!')
             break
-        random_number = random.randint(1,10)
+        random_number = random.randint(1, 10)

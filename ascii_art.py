@@ -3,7 +3,6 @@ from termcolor import colored as c
 
 
 def ascii_print():
-
     message = input('What message do you want to print? ')
 
     while True:
