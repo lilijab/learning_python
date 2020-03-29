@@ -29,7 +29,7 @@ while True:
             break
     else:
         print(f"Sorry, I have no jokes about {topic}. Please try different topic.")
-        break
+
 
 
 
