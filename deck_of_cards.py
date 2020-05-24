@@ -47,3 +47,14 @@ class Deck:
         if len(self.cards) < 52:
             raise ValueError('Only full decks can be shuffled')
         shuffle(self.cards)
+
+
+# d = Deck()
+# d.shuffle()
+# card = d.deal_card()
+# print(card)
+# hand = d.deal_hand(5)
+# card2 = d.deal_card()
+# print(card2)
+# print(d.cards)
+# print(len(d.cards))
