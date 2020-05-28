@@ -50,6 +50,7 @@ class Deck:
 
 
 # d = Deck()
+# print(d.cards)
 # d.shuffle()
 # card = d.deal_card()
 # print(card)
